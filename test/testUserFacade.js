@@ -1,7 +1,7 @@
 const expect = require("chai").expect;
 const dbSetup = require("..//dbSetup");
 var TEST_DB_URI =
-  "mongodb+srv://stein:hejhej123@skoleprojekt-azi7o.mongodb.net/testData?retryWrites=true";
+  "mongodb+srv://stein:xdxdxdxd@skoleprojekt-azi7o.mongodb.net/testData?retryWrites=true";
 var userFacade = require("../facades/userFacade");
 var User = require("../models/user");
 

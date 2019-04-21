@@ -1,6 +1,6 @@
 var mongoose = require("mongoose");
 let dbURI =
-  "mongodb+srv://stein:hejhej123@skoleprojekt-azi7o.mongodb.net/geo?retryWrites=true  ";
+  "mongodb+srv://stein:xdxdxdxd@skoleprojekt-azi7o.mongodb.net/geo?retryWrites=true  ";
 
 function setDbUri(uri) {
   dbURI = uri;
